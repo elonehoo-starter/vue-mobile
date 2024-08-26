@@ -1,6 +1,6 @@
-# starter-vue
+# starter-vue-mobile
 
-Starter template for Vue
+Starter mobile template for Vue
 
 ## Try it now!
 
