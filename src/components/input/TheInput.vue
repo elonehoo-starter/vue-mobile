@@ -7,7 +7,6 @@ const model = defineModel<string>()
     id="input"
     v-bind="$attrs"
     v-model="model"
-    type="text"
     p="x-4 y-2"
     w="250px"
     text="center"

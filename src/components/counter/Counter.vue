@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import type { Counter } from '~components/counter/prop'
+import type { Counter } from './prop'
 
 const props = defineProps<Counter>()
 
